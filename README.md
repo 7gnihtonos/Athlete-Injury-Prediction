@@ -11,3 +11,5 @@ I also learned hwo to orgainize a testing set for the model so that it can be ch
 How to run:
 You would want to upload the data sheet that contains the data sheet that you want to train the model on into the files portion on to your google colab. Make sure it is in the outermost layer/folder so that the program can find the data file correctly.
 Then you just need to run the poritons of code block by block into the google colab notebook and make sure that each block is running before proceeding to the next block.
+
+You can also open the notebook directly through github, the BioTech.ipynb should have a link to open it directly.
